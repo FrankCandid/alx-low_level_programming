@@ -1,11 +1,10 @@
 #include <stdio.h>
 /**
  * main - A program that prints the size of various types on the computer
- * Description: 'Size is not grandeur, and territory does not make a nation'
  * Return 0 (Success)
  */
-int main(void);
 
+int main(void);
 {
 	char a;
 	int b;
